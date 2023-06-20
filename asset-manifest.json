@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/roboapp/static/css/main.393780c5.css",
+    "main.js": "/roboapp/static/js/main.de355cf7.js",
+    "static/js/787.6cddae0b.chunk.js": "/roboapp/static/js/787.6cddae0b.chunk.js",
+    "static/media/sega-webfont.woff": "/roboapp/static/media/sega-webfont.7292c0c45dca5a467933.woff",
+    "static/media/sega-webfont.woff2": "/roboapp/static/media/sega-webfont.3c86771430e607738bf4.woff2",
+    "index.html": "/roboapp/index.html",
+    "main.393780c5.css.map": "/roboapp/static/css/main.393780c5.css.map",
+    "main.de355cf7.js.map": "/roboapp/static/js/main.de355cf7.js.map",
+    "787.6cddae0b.chunk.js.map": "/roboapp/static/js/787.6cddae0b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.393780c5.css",
+    "static/js/main.de355cf7.js"
+  ]
+}
