@@ -16,11 +16,11 @@ The Simple Profile Application allows you to filter data based on user names.
 
 - **User Search:** The application provides a search functionality where you can enter a user name and find the associated profile card
 
-![main](https://github.com/rosielee09/roboapp/assets/123128268/49372d17-97a2-4244-96bc-9f056ea155a3)
+![main](https://github.com/dpd696/roboapp/blob/main/src/assets/react_robo_app.png)
 
 - **Robo Images:** To make the user experience more enjoyable, the application utilizes the Robohash API to generate random cute kitty images for the profile cards. 
 
-![search](https://github.com/rosielee09/roboapp/assets/123128268/7b3b78b6-57cd-4e17-8402-3258d81b0c3d)
+![search](https://github.com/dpd696/roboapp/blob/main/src/assets/react_robo_app_search.png)
 
 
 ## Installation
