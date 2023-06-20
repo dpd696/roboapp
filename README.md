@@ -1,5 +1,5 @@
-# Robo-Kitten-Freinds
-https://rosielee09.github.io/roboapp/
+# Robo-Freinds
+https://dpd696.github.io/roboapp/
 
 ## Description
 
@@ -18,7 +18,7 @@ The Simple Profile Application allows you to filter data based on user names.
 
 ![main](https://github.com/rosielee09/roboapp/assets/123128268/49372d17-97a2-4244-96bc-9f056ea155a3)
 
-- **Cute Kitty Images:** To make the user experience more enjoyable, the application utilizes the Robohash API to generate random cute kitty images for the profile cards. 
+- **Robo Images:** To make the user experience more enjoyable, the application utilizes the Robohash API to generate random cute kitty images for the profile cards. 
 
 ![search](https://github.com/rosielee09/roboapp/assets/123128268/7b3b78b6-57cd-4e17-8402-3258d81b0c3d)
 
